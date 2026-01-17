@@ -33,6 +33,7 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [AWS MCP](https://github.com/aws/aws-mcp) | Official AWS MCP for S3, Lambda, EC2, and more | Free | ![GitHub stars](https://img.shields.io/github/stars/aws/aws-mcp?style=flat) |
+| [AWS MCP Servers](https://github.com/awslabs/mcp) | Official AWS labs MCP servers collection | Free | ![GitHub stars](https://img.shields.io/github/stars/awslabs/mcp?style=flat) |
 | [AWS KB Retrieval](https://github.com/aws-samples/amazon-bedrock-samples) | Amazon Bedrock knowledge base integration | Free | ![GitHub stars](https://img.shields.io/github/stars/aws-samples/amazon-bedrock-samples?style=flat) |
 | [S3 MCP](https://github.com/aws/s3-mcp-server) | S3 bucket operations | Free | ![GitHub stars](https://img.shields.io/github/stars/aws/s3-mcp-server?style=flat) |
 | [CDK MCP](https://github.com/awslabs/mcp-cdk) | AWS CDK infrastructure management | Free | ![GitHub stars](https://img.shields.io/github/stars/awslabs/mcp-cdk?style=flat) |
@@ -67,7 +68,11 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Docker MCP](https://github.com/docker/mcp-server-docker) | Docker container management | Free | ![GitHub stars](https://img.shields.io/github/stars/docker/mcp-server-docker?style=flat) |
+| [Docker Hub MCP](https://github.com/docker/hub-mcp) | Docker Hub repositories and images | Free | ![GitHub stars](https://img.shields.io/github/stars/docker/hub-mcp?style=flat) |
+| [Docker MCP Server](https://github.com/ckreiling/mcp-server-docker) | Container management via MCP | Free | ![GitHub stars](https://img.shields.io/github/stars/ckreiling/mcp-server-docker?style=flat) |
 | [Kubernetes MCP](https://github.com/kubernetes/mcp-server) | Kubernetes cluster operations | Free | ![GitHub stars](https://img.shields.io/github/stars/kubernetes/mcp-server?style=flat) |
+| [Kubernetes MCP Server](https://github.com/Flux159/mcp-server-kubernetes) | K8s management commands | Free | ![GitHub stars](https://img.shields.io/github/stars/Flux159/mcp-server-kubernetes?style=flat) |
+| [kubectl MCP Server](https://github.com/rohitg00/kubectl-mcp-server) | Chat with K8s cluster using AI | Free | ![GitHub stars](https://img.shields.io/github/stars/rohitg00/kubectl-mcp-server?style=flat) |
 | [Helm MCP](https://github.com/helm/mcp-server) | Helm chart management | Free | ![GitHub stars](https://img.shields.io/github/stars/helm/mcp-server?style=flat) |
 | [Podman MCP](https://github.com/containers/podman-mcp) | Podman container operations | Free | ![GitHub stars](https://img.shields.io/github/stars/containers/podman-mcp?style=flat) |
 | [K3s MCP](https://github.com/k3s-io/k3s-mcp) | Lightweight Kubernetes | Free | ![GitHub stars](https://img.shields.io/github/stars/k3s-io/k3s-mcp?style=flat) |
@@ -83,6 +88,7 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 | [Jenkins MCP](https://github.com/jenkinsci/mcp-server) | Jenkins job management | Free | ![GitHub stars](https://img.shields.io/github/stars/jenkinsci/mcp-server?style=flat) |
 | [CircleCI MCP](https://github.com/circleci/mcp-server) | CircleCI pipeline operations | Free | ![GitHub stars](https://img.shields.io/github/stars/circleci/mcp-server?style=flat) |
 | [Buildkite MCP](https://github.com/buildkite/mcp-server) | Buildkite pipeline management | Free | ![GitHub stars](https://img.shields.io/github/stars/buildkite/mcp-server?style=flat) |
+| [Buildkite MCP Server](https://github.com/buildkite/buildkite-mcp-server) | Official Buildkite pipelines, diagnose failures | Free | ![GitHub stars](https://img.shields.io/github/stars/buildkite/buildkite-mcp-server?style=flat) |
 
 ---
 
@@ -131,6 +137,7 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Cloudflare MCP](https://github.com/cloudflare/mcp-server-cloudflare) | Cloudflare DNS, Workers, R2 | Freemium | ![GitHub stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare?style=flat) |
+| [LocalStack MCP](https://github.com/localstack/localstack-mcp-server) | Local AWS environments for testing | Free | ![GitHub stars](https://img.shields.io/github/stars/localstack/localstack-mcp-server?style=flat) |
 | [Nginx MCP](https://github.com/nginx/mcp-server) | Nginx configuration management | Free | ![GitHub stars](https://img.shields.io/github/stars/nginx/mcp-server?style=flat) |
 | [Vault MCP](https://github.com/hashicorp/vault-mcp) | HashiCorp Vault secrets | Free | ![GitHub stars](https://img.shields.io/github/stars/hashicorp/vault-mcp?style=flat) |
 | [1Password MCP](https://github.com/1password/mcp-server) | 1Password secrets management | Requires account | ![GitHub stars](https://img.shields.io/github/stars/1password/mcp-server?style=flat) |

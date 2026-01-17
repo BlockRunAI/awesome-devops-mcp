@@ -140,6 +140,8 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 | [local-history-mcp](https://github.com/xxczaki/local-history-mcp) | Local history tracking | Free | ![stars](https://img.shields.io/github/stars/xxczaki/local-history-mcp?style=flat) | *[@xxczaki](https://github.com/xxczaki)* |
 | [mcp-adr-analysis-server](https://github.com/tosin2013/mcp-adr-analysis-server) | ADR analysis | Free | ![stars](https://img.shields.io/github/stars/tosin2013/mcp-adr-analysis-server?style=flat) | *[@tosin2013](https://github.com/tosin2013)* |
 | [browser-devtools-mcp](https://github.com/serkan-ozal/browser-devtools-mcp) | Browser DevTools integration | Free | ![stars](https://img.shields.io/github/stars/serkan-ozal/browser-devtools-mcp?style=flat) | *[@serkan-ozal](https://github.com/serkan-ozal)* |
+| [code-to-tree](https://github.com/micl2e2/code-to-tree) | Convert source code into AST | Free | ![stars](https://img.shields.io/github/stars/micl2e2/code-to-tree?style=flat) | *[@micl2e2](https://github.com/micl2e2)* |
+| [mcp-unity](https://github.com/CoderGamester/mcp-unity) | Unity Editor integration for Cursor, Claude Code | Free | ![stars](https://img.shields.io/github/stars/CoderGamester/mcp-unity?style=flat) | *[@CoderGamester](https://github.com/CoderGamester)* |
 
 ### Cloud Platforms (Community)
 

@@ -139,6 +139,13 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 | [devplan-mcp-server](https://github.com/mmorris35/devplan-mcp-server) | Development planning | Free | ![stars](https://img.shields.io/github/stars/mmorris35/devplan-mcp-server?style=flat) | *[@mmorris35](https://github.com/mmorris35)* |
 | [local-history-mcp](https://github.com/xxczaki/local-history-mcp) | Local history tracking | Free | ![stars](https://img.shields.io/github/stars/xxczaki/local-history-mcp?style=flat) | *[@xxczaki](https://github.com/xxczaki)* |
 | [mcp-adr-analysis-server](https://github.com/tosin2013/mcp-adr-analysis-server) | ADR analysis | Free | ![stars](https://img.shields.io/github/stars/tosin2013/mcp-adr-analysis-server?style=flat) | *[@tosin2013](https://github.com/tosin2013)* |
+| [browser-devtools-mcp](https://github.com/serkan-ozal/browser-devtools-mcp) | Browser DevTools integration | Free | ![stars](https://img.shields.io/github/stars/serkan-ozal/browser-devtools-mcp?style=flat) | *[@serkan-ozal](https://github.com/serkan-ozal)* |
+
+### Cloud Platforms (Community)
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [oci-pricing-mcp](https://github.com/jasonwilbur/oci-pricing-mcp) | Oracle Cloud Infrastructure pricing | Free | ![stars](https://img.shields.io/github/stars/jasonwilbur/oci-pricing-mcp?style=flat) | *[@jasonwilbur](https://github.com/jasonwilbur)* |
 
 ### Databases (Community)
 
@@ -153,6 +160,13 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 | Name | Description | Pricing | Stars | Contributor |
 |------|-------------|---------|-------|-------------|
 | [mcp-server-bitbucket](https://github.com/JaviMaligno/mcp-server-bitbucket) | Bitbucket integration | Free | ![stars](https://img.shields.io/github/stars/JaviMaligno/mcp-server-bitbucket?style=flat) | *[@JaviMaligno](https://github.com/JaviMaligno)* |
+| [git-context-mcp](https://github.com/TamiShaks-2/git-context-mcp) | Git repository analysis | Free | ![stars](https://img.shields.io/github/stars/TamiShaks-2/git-context-mcp?style=flat) | *[@TamiShaks-2](https://github.com/TamiShaks-2)* |
+
+### CI/CD (Community)
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [jira-github-mcp](https://github.com/TamarEngel/jira-github-mcp) | Jira + GitHub workflow automation | Free | ![stars](https://img.shields.io/github/stars/TamarEngel/jira-github-mcp?style=flat) | *[@TamarEngel](https://github.com/TamarEngel)* |
 
 ### Monitoring (Community)
 

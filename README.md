@@ -38,12 +38,14 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [BigQuery MCP](https://github.com/LucasHild/mcp-server-bigquery) | BigQuery data warehouse operations | Free | ![GitHub stars](https://img.shields.io/github/stars/LucasHild/mcp-server-bigquery?style=flat) |
+| [gcloud MCP](https://github.com/googleapis/gcloud-mcp) | Google Cloud CLI operations | Free | ![GitHub stars](https://img.shields.io/github/stars/googleapis/gcloud-mcp?style=flat) |
 
 ### Azure
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Azure MCP](https://github.com/Azure/azure-mcp) | Azure cloud services integration | Free | ![GitHub stars](https://img.shields.io/github/stars/Azure/azure-mcp?style=flat) |
+| [Azure DevOps MCP](https://github.com/Tiberriver256/mcp-server-azure-devops) | Azure DevOps integration | Free | ![GitHub stars](https://img.shields.io/github/stars/Tiberriver256/mcp-server-azure-devops?style=flat) |
 
 ---
 
@@ -54,6 +56,7 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 | [Docker MCP Server](https://github.com/ckreiling/mcp-server-docker) | Container management via MCP | Free | ![GitHub stars](https://img.shields.io/github/stars/ckreiling/mcp-server-docker?style=flat) |
 | [Kubernetes MCP Server](https://github.com/Flux159/mcp-server-kubernetes) | K8s management commands | Free | ![GitHub stars](https://img.shields.io/github/stars/Flux159/mcp-server-kubernetes?style=flat) |
 | [kubectl MCP Server](https://github.com/rohitg00/kubectl-mcp-server) | Chat with K8s cluster using AI | Free | ![GitHub stars](https://img.shields.io/github/stars/rohitg00/kubectl-mcp-server?style=flat) |
+| [Kubernetes OpenShift MCP](https://github.com/containers/kubernetes-mcp-server) | Kubernetes and OpenShift management | Free | ![GitHub stars](https://img.shields.io/github/stars/containers/kubernetes-mcp-server?style=flat) |
 
 ---
 
@@ -79,6 +82,8 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 |------|-------------|---------|-------|
 | [Grafana MCP](https://github.com/grafana/mcp-grafana) | Grafana dashboards and alerts | Free | ![GitHub stars](https://img.shields.io/github/stars/grafana/mcp-grafana?style=flat) |
 | [New Relic MCP](https://github.com/newrelic/mcp-server) | New Relic observability | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/newrelic/mcp-server?style=flat) |
+| [Elasticsearch MCP](https://github.com/elastic/mcp-server-elasticsearch) | Elasticsearch search and analytics | Free | ![GitHub stars](https://img.shields.io/github/stars/elastic/mcp-server-elasticsearch?style=flat) |
+| [SonarQube MCP](https://github.com/SonarSource/sonarqube-mcp-server) | Code quality analysis | Free | ![GitHub stars](https://img.shields.io/github/stars/SonarSource/sonarqube-mcp-server?style=flat) |
 
 ---
 
@@ -96,6 +101,7 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 |------|-------------|---------|-------|
 | [Cloudflare MCP](https://github.com/cloudflare/mcp-server-cloudflare) | Cloudflare DNS, Workers, R2 | Freemium | ![GitHub stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare?style=flat) |
 | [LocalStack MCP](https://github.com/localstack/localstack-mcp-server) | Local AWS environments for testing | Free | ![GitHub stars](https://img.shields.io/github/stars/localstack/localstack-mcp-server?style=flat) |
+| [Burp Suite MCP](https://github.com/PortSwigger/mcp-server) | Burp Suite security testing | Requires license | ![GitHub stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?style=flat) |
 
 ---
 
@@ -103,7 +109,7 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
-| [GitHub MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/github) | GitHub repos, issues, PRs | Free | ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat) |
+| [GitHub MCP](https://github.com/github/github-mcp-server) | Official GitHub MCP Server | Free | ![GitHub stars](https://img.shields.io/github/stars/github/github-mcp-server?style=flat) |
 | [GitLab MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) | GitLab repos and merge requests | Free | ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat) |
 | [Git MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/git) | Local git operations | Free | ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat) |
 

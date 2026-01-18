@@ -66,6 +66,8 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Buildkite MCP Server](https://github.com/buildkite/buildkite-mcp-server) | Official Buildkite pipelines, diagnose failures | Free | ![GitHub stars](https://img.shields.io/github/stars/buildkite/buildkite-mcp-server?style=flat) |
+| [n8n MCP](https://github.com/czlonkowski/n8n-mcp) | Build n8n workflows from Claude/Cursor | Free | ![GitHub stars](https://img.shields.io/github/stars/czlonkowski/n8n-mcp?style=flat) |
+| [Conductor MCP](https://github.com/conductor-oss/conductor-mcp) | Orkes Conductor workflow engine | Free | ![GitHub stars](https://img.shields.io/github/stars/conductor-oss/conductor-mcp?style=flat) |
 
 ---
 
@@ -103,6 +105,10 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 | [Cloudflare MCP](https://github.com/cloudflare/mcp-server-cloudflare) | Cloudflare DNS, Workers, R2 | Freemium | ![GitHub stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare?style=flat) |
 | [LocalStack MCP](https://github.com/localstack/localstack-mcp-server) | Local AWS environments for testing | Free | ![GitHub stars](https://img.shields.io/github/stars/localstack/localstack-mcp-server?style=flat) |
 | [Burp Suite MCP](https://github.com/PortSwigger/mcp-server) | Burp Suite security testing | Requires license | ![GitHub stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?style=flat) |
+| [Ghidra MCP](https://github.com/LaurieWired/GhidraMCP) | Ghidra reverse engineering integration | Free | ![GitHub stars](https://img.shields.io/github/stars/LaurieWired/GhidraMCP?style=flat) |
+| [IDA Pro MCP](https://github.com/mrexodia/ida-pro-mcp) | IDA Pro reverse engineering assistant | Requires IDA | ![GitHub stars](https://img.shields.io/github/stars/mrexodia/ida-pro-mcp?style=flat) |
+| [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) | 150+ cybersecurity tools for AI agents | Free | ![GitHub stars](https://img.shields.io/github/stars/0x4m4/hexstrike-ai?style=flat) |
+| [Snyk Studio](https://github.com/snyk/studio-mcp) | Snyk security scanning | Freemium | ![GitHub stars](https://img.shields.io/github/stars/snyk/studio-mcp?style=flat) |
 
 ---
 
@@ -113,6 +119,7 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 | [GitHub MCP](https://github.com/github/github-mcp-server) | Official GitHub MCP Server | Free | ![GitHub stars](https://img.shields.io/github/stars/github/github-mcp-server?style=flat) |
 | [GitLab MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) | GitLab repos and merge requests | Free | ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat) |
 | [Git MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/git) | Local git operations | Free | ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat) |
+| [GitMCP](https://github.com/idosal/git-mcp) | Put an end to code hallucinations | Free | ![GitHub stars](https://img.shields.io/github/stars/idosal/git-mcp?style=flat) |
 
 ---
 

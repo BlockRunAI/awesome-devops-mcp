@@ -68,6 +68,7 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 | [Buildkite MCP Server](https://github.com/buildkite/buildkite-mcp-server) | Official Buildkite pipelines, diagnose failures | Free | ![GitHub stars](https://img.shields.io/github/stars/buildkite/buildkite-mcp-server?style=flat) |
 | [n8n MCP](https://github.com/czlonkowski/n8n-mcp) | Build n8n workflows from Claude/Cursor | Free | ![GitHub stars](https://img.shields.io/github/stars/czlonkowski/n8n-mcp?style=flat) |
 | [Conductor MCP](https://github.com/conductor-oss/conductor-mcp) | Orkes Conductor workflow engine | Free | ![GitHub stars](https://img.shields.io/github/stars/conductor-oss/conductor-mcp?style=flat) |
+| [XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) | Xcode-related tools for AI assistants | Free | ![GitHub stars](https://img.shields.io/github/stars/cameroncooke/XcodeBuildMCP?style=flat) |
 
 ---
 

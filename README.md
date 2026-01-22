@@ -38,6 +38,7 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
+| [Google MCP](https://github.com/google/mcp) | Official Google MCP servers | Free | ![GitHub stars](https://img.shields.io/github/stars/google/mcp?style=flat) |
 | [BigQuery MCP](https://github.com/LucasHild/mcp-server-bigquery) | BigQuery data warehouse operations | Free | ![GitHub stars](https://img.shields.io/github/stars/LucasHild/mcp-server-bigquery?style=flat) |
 | [gcloud MCP](https://github.com/googleapis/gcloud-mcp) | Google Cloud CLI operations | Free | ![GitHub stars](https://img.shields.io/github/stars/googleapis/gcloud-mcp?style=flat) |
 
@@ -58,6 +59,7 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 | [Kubernetes MCP Server](https://github.com/Flux159/mcp-server-kubernetes) | K8s management commands | Free | ![GitHub stars](https://img.shields.io/github/stars/Flux159/mcp-server-kubernetes?style=flat) |
 | [kubectl MCP Server](https://github.com/rohitg00/kubectl-mcp-server) | Chat with K8s cluster using AI | Free | ![GitHub stars](https://img.shields.io/github/stars/rohitg00/kubectl-mcp-server?style=flat) |
 | [Kubernetes OpenShift MCP](https://github.com/containers/kubernetes-mcp-server) | Kubernetes and OpenShift management | Free | ![GitHub stars](https://img.shields.io/github/stars/containers/kubernetes-mcp-server?style=flat) |
+| [Mobile MCP](https://github.com/mobile-next/mobile-mcp) | Mobile automation for iOS and Android | Free | ![GitHub stars](https://img.shields.io/github/stars/mobile-next/mobile-mcp?style=flat) |
 
 ---
 
@@ -69,6 +71,7 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 | [n8n MCP](https://github.com/czlonkowski/n8n-mcp) | Build n8n workflows from Claude/Cursor | Free | ![GitHub stars](https://img.shields.io/github/stars/czlonkowski/n8n-mcp?style=flat) |
 | [Conductor MCP](https://github.com/conductor-oss/conductor-mcp) | Orkes Conductor workflow engine | Free | ![GitHub stars](https://img.shields.io/github/stars/conductor-oss/conductor-mcp?style=flat) |
 | [XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) | Xcode-related tools for AI assistants | Free | ![GitHub stars](https://img.shields.io/github/stars/cameroncooke/XcodeBuildMCP?style=flat) |
+| [Spec Workflow MCP](https://github.com/Pimzino/spec-workflow-mcp) | Spec-driven dev workflow with web dashboard | Free | ![GitHub stars](https://img.shields.io/github/stars/Pimzino/spec-workflow-mcp?style=flat) |
 
 ---
 

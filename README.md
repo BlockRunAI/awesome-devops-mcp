@@ -58,6 +58,8 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 | [Docker MCP Server](https://github.com/ckreiling/mcp-server-docker) | Container management via MCP | Free | ![GitHub stars](https://img.shields.io/github/stars/ckreiling/mcp-server-docker?style=flat) |
 | [Kubernetes MCP Server](https://github.com/Flux159/mcp-server-kubernetes) | K8s management commands | Free | ![GitHub stars](https://img.shields.io/github/stars/Flux159/mcp-server-kubernetes?style=flat) |
 | [kubectl MCP Server](https://github.com/rohitg00/kubectl-mcp-server) | Chat with K8s cluster using AI | Free | ![GitHub stars](https://img.shields.io/github/stars/rohitg00/kubectl-mcp-server?style=flat) |
+| [k8m](https://github.com/weibaohui/k8m) | Multi-cluster K8s management with web UI | Free | ![GitHub stars](https://img.shields.io/github/stars/weibaohui/k8m?style=flat) |
+| [Portainer MCP](https://github.com/portainer/portainer-mcp) | Portainer container management | Free | ![GitHub stars](https://img.shields.io/github/stars/portainer/portainer-mcp?style=flat) |
 | [Kubernetes OpenShift MCP](https://github.com/containers/kubernetes-mcp-server) | Kubernetes and OpenShift management | Free | ![GitHub stars](https://img.shields.io/github/stars/containers/kubernetes-mcp-server?style=flat) |
 | [Mobile MCP](https://github.com/mobile-next/mobile-mcp) | Mobile automation for iOS and Android | Free | ![GitHub stars](https://img.shields.io/github/stars/mobile-next/mobile-mcp?style=flat) |
 

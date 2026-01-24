@@ -10,6 +10,7 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 
 ## Contents
 
+- [Server Management](#server-management)
 - [Cloud Providers](#cloud-providers)
   - [AWS](#aws)
   - [Google Cloud](#google-cloud)
@@ -22,6 +23,17 @@ A curated list of MCP (Model Context Protocol) servers for DevOps, cloud infrast
 - [Networking & Security](#networking--security)
 - [Version Control](#version-control)
 - [Community Contributions](#community-contributions) 🆕
+
+---
+
+## Server Management
+
+| Name | Description | Pricing | Stars |
+|------|-------------|---------|-------|
+| [1Panel](https://github.com/1Panel-dev/1Panel) | Linux server management with MCP Server, web UI | Free | ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=flat) |
+| [Trigger.dev](https://github.com/triggerdotdev/trigger.dev) | Build and deploy AI agents and workflows | Freemium | ![GitHub stars](https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=flat) |
+| [ToolHive](https://github.com/stacklok/toolhive) | Deploy MCP servers easy, secure and fun | Free | ![GitHub stars](https://img.shields.io/github/stars/stacklok/toolhive?style=flat) |
+| [Mesh](https://github.com/decocms/mesh) | One secure endpoint for every MCP server | Free | ![GitHub stars](https://img.shields.io/github/stars/decocms/mesh?style=flat) |
 
 ---
 
